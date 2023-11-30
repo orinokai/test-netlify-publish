@@ -1,5 +1,2 @@
 [build]
-publish = "publish"
-
-[[plugins]]
-package = "/plugins/amend-publish"
+publish = "."
